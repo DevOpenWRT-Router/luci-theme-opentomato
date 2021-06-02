@@ -1,0 +1,14 @@
+Package: luci-theme-opentomato
+Version: git-21.021.10476-8f8e921
+Depends: libc
+Source: feeds/opentomato/luci/themes/luci-theme-opentomato
+SourceName: luci-theme-opentomato
+Section: luci
+SourceDateEpoch: 1611197676
+Architecture: all
+Installed-Size: 211996
+Filename: luci-theme-opentomato_git-21.021.10476-8f8e921_all.ipk
+Size: 212920
+SHA256sum: c256081776a57332d9c0972ce00baf5a6cb8ef1e26f0eb1cd9e8bab9974c737d
+Description:  OpenTomato Theme
+
